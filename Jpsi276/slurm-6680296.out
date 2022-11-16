@@ -1,0 +1,7 @@
+begin time : Sat Oct 29 17:06:36 CST 2022
+current working directory: /PARA/blsc674/ghj/Jpsi276
+charmed_meson_production.f90(770): error #6404: This name does not have a type, and must have an explicit type.   [SIJ]
+    function Sij(p2,q,IDP1,IDP2)
+-------------^
+compilation aborted for charmed_meson_production.f90 (code 1)
+end time : Sat Oct 29 19:08:54 CST 2022

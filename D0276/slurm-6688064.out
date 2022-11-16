@@ -1,0 +1,18 @@
+begin time : Fri Nov 4 19:54:03 CST 2022
+current working directory: /PARA/blsc674/ghj/D0276
+ifort: error #10236: File not found:  'charm_meson_production.f90'
+ifort: command line error: no files specified; for help type "ifort -help"
+slurmd[cn13509]: *** JOB 6688064 CANCELLED AT 2022-11-04T21:28:18 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+exe.out            0000000000411444  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+exe.out            000000000048C1DE  Unknown               Unknown  Unknown
+exe.out            000000000040C8FF  Unknown               Unknown  Unknown
+exe.out            000000000040BD1D  Unknown               Unknown  Unknown
+exe.out            000000000040DDAF  Unknown               Unknown  Unknown
+exe.out            000000000040B2CB  Unknown               Unknown  Unknown
+exe.out            000000000040522B  Unknown               Unknown  Unknown
+exe.out            0000000000404C02  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+exe.out            0000000000404AA9  Unknown               Unknown  Unknown

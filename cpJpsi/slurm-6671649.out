@@ -1,0 +1,550 @@
+begin time : Sat Oct 22 13:31:25 CST 2022
+current working directory: /PARA/blsc674/ghj/Jpsi276
+srun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+srun: got SIGCONT
+slurmd[cn13624]: *** STEP 6671649.0 CANCELLED AT 2022-10-22T20:04:58 ***
+slurmd[cn13624]: *** JOB 6671649 CANCELLED AT 2022-10-22T20:04:58 ***
+srun: forcing job termination
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040B269  Unknown               Unknown  Unknown
+a.out              000000000040A764  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040B360  Unknown               Unknown  Unknown
+a.out              000000000040A679  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040B364  Unknown               Unknown  Unknown
+a.out              000000000040A789  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040B364  Unknown               Unknown  Unknown
+a.out              000000000040A679  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040AEC6  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9922  Unknown               Unknown  Unknown
+a.out              000000000040B30F  Unknown               Unknown  Unknown
+a.out              000000000040A764  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A0C  Unknown               Unknown  Unknown
+a.out              000000000040B2C0  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A98AB  Unknown               Unknown  Unknown
+a.out              000000000040B2C0  Unknown               Unknown  Unknown
+a.out              000000000040A764  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040B237  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              000000000040B360  Unknown               Unknown  Unknown
+a.out              000000000040AB35  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A8010  Unknown               Unknown  Unknown
+a.out              000000000040B250  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A7F91  Unknown               Unknown  Unknown
+a.out              000000000040B250  Unknown               Unknown  Unknown
+a.out              000000000040A9C6  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A4BFE  exp                   Unknown  Unknown
+a.out              000000000040B250  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A987A  Unknown               Unknown  Unknown
+a.out              000000000040B2A7  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A7F67  Unknown               Unknown  Unknown
+a.out              000000000040B250  Unknown               Unknown  Unknown
+a.out              000000000040A9C6  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A98F7  Unknown               Unknown  Unknown
+a.out              000000000040B2C0  Unknown               Unknown  Unknown
+a.out              000000000040AB35  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A74  Unknown               Unknown  Unknown
+a.out              000000000040B30F  Unknown               Unknown  Unknown
+a.out              000000000040AB0F  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A99F4  Unknown               Unknown  Unknown
+a.out              000000000040B2A7  Unknown               Unknown  Unknown
+a.out              000000000040A9A0  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A81  Unknown               Unknown  Unknown
+a.out              000000000040B2A7  Unknown               Unknown  Unknown
+a.out              000000000040AB35  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A997E  Unknown               Unknown  Unknown
+a.out              000000000040B30F  Unknown               Unknown  Unknown
+a.out              000000000040A764  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A63  Unknown               Unknown  Unknown
+a.out              000000000040B2C0  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9816  Unknown               Unknown  Unknown
+a.out              000000000040B30F  Unknown               Unknown  Unknown
+a.out              000000000040A9A0  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A85  Unknown               Unknown  Unknown
+a.out              000000000040B2C0  Unknown               Unknown  Unknown
+a.out              000000000040A69B  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A98B4  Unknown               Unknown  Unknown
+a.out              000000000040B228  Unknown               Unknown  Unknown
+a.out              000000000040A679  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A98FB  Unknown               Unknown  Unknown
+a.out              000000000040B30F  Unknown               Unknown  Unknown
+a.out              000000000040AB35  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A85  Unknown               Unknown  Unknown
+a.out              0000000000408170  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A52D  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A99FC  Unknown               Unknown  Unknown
+a.out              0000000000407B1A  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A50A  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A4E  Unknown               Unknown  Unknown
+a.out              0000000000407ADF  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A52D  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A91  Unknown               Unknown  Unknown
+a.out              0000000000407ADF  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A5C3  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A98E0  Unknown               Unknown  Unknown
+a.out              0000000000407B1A  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A5C3  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A98D2  Unknown               Unknown  Unknown
+a.out              000000000040B30F  Unknown               Unknown  Unknown
+a.out              000000000040A9A0  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A81  Unknown               Unknown  Unknown
+a.out              0000000000407ADF  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A603  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A91  Unknown               Unknown  Unknown
+a.out              0000000000408170  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A59C  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A988D  Unknown               Unknown  Unknown
+a.out              0000000000407ADF  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A575  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A63  Unknown               Unknown  Unknown
+a.out              000000000040818A  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A50A  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A8D  Unknown               Unknown  Unknown
+a.out              000000000040818A  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A575  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A81  Unknown               Unknown  Unknown
+a.out              0000000000407B00  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A5C3  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A99BC  Unknown               Unknown  Unknown
+a.out              0000000000407ADF  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A5C3  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9922  Unknown               Unknown  Unknown
+a.out              0000000000407ADF  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A50A  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A91  Unknown               Unknown  Unknown
+a.out              0000000000408170  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A5C3  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A990C  Unknown               Unknown  Unknown
+a.out              0000000000407B00  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A5C3  Unknown               Unknown  Unknown
+a.out              0000000000405831  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A57  Unknown               Unknown  Unknown
+a.out              000000000040818A  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A603  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A5B  Unknown               Unknown  Unknown
+a.out              000000000040818A  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A603  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9903  Unknown               Unknown  Unknown
+a.out              0000000000407B00  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A603  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A57  Unknown               Unknown  Unknown
+a.out              0000000000407B1A  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A52D  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A982D  Unknown               Unknown  Unknown
+a.out              0000000000407B00  Unknown               Unknown  Unknown
+a.out              000000000040B184  Unknown               Unknown  Unknown
+a.out              000000000040A52D  Unknown               Unknown  Unknown
+a.out              00000000004057B1  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9905  Unknown               Unknown  Unknown
+a.out              000000000040818A  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A50A  Unknown               Unknown  Unknown
+a.out              0000000000405786  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+a.out              000000000042AC24  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+a.out              00000000004A9A89  Unknown               Unknown  Unknown
+a.out              000000000040814F  Unknown               Unknown  Unknown
+a.out              000000000040B1AD  Unknown               Unknown  Unknown
+a.out              000000000040A59C  Unknown               Unknown  Unknown
+a.out              0000000000405806  Unknown               Unknown  Unknown
+a.out              0000000000405082  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+a.out              0000000000404F29  Unknown               Unknown  Unknown
+srun: error: cn13625: tasks 24-47: Exited with exit code 1

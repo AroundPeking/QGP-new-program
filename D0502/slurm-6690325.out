@@ -1,0 +1,126 @@
+begin time : Mon Nov 7 09:50:29 CST 2022
+current working directory: /PARA/blsc674/ghj/D0502
+charmed_meson_production.f90(1155): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+        fik =  (943.1810784729389*(0.1 + k)**2*
+-----------------------------------------------^
+charmed_meson_production.f90(1156): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+         ((1 + k**2/36.)/
+-------------------------^
+charmed_meson_production.f90(1157): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+            ((1 + 2.45960311115695/Exp(2*k))*
+---------------------------------------------^
+charmed_meson_production.f90(1158): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ) ,
+              (1 + 0.27027027027027023*k)**12
+---------------------------------------------^
+charmed_meson_production.f90(1159): error #5276: Unbalanced parentheses
+              ))**0.2*
+--------------^
+charmed_meson_production.f90(1159): error #5276: Unbalanced parentheses
+              ))**0.2*
+---------------^
+charmed_meson_production.f90(1159): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+              ))**0.2*
+----------------------^
+charmed_meson_production.f90(1160): error #5276: Unbalanced parentheses
+         (39.372261643524276 + k**5.5))/
+--------------------------------------^
+charmed_meson_production.f90(1160): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+         (39.372261643524276 + k**5.5))/
+----------------------------------------^
+charmed_meson_production.f90(1161): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+       (k**6.5*((1 + 
+---------------------^
+charmed_meson_production.f90(1162): error #5276: Unbalanced parentheses
+              39.372261643524276/k**5.5)/
+---------------------------------------^
+charmed_meson_production.f90(1162): error #5082: Syntax error, found '.' when expecting one of: <IDENTIFIER> TYPE MODULE ELEMENTAL IMPURE NON_RECURSIVE PURE RECURSIVE FUNCTION ...
+              39.372261643524276/k**5.5)/
+----------------^
+charmed_meson_production.f90(1163): error #5276: Unbalanced parentheses
+            (k + (16.*k)/(0.1 + k)**2))**0.2*
+--------------------------------------^
+charmed_meson_production.f90(1163): error #5082: Syntax error, found '(' when expecting one of: <LABEL> <END-OF-STATEMENT> ; <IDENTIFIER> TYPE MODULE ELEMENTAL IMPURE NON_RECURSIVE ...
+            (k + (16.*k)/(0.1 + k)**2))**0.2*
+------------^
+charmed_meson_production.f90(1163): error #5082: Syntax error, found ')' when expecting one of: ( % [ . = =>
+            (k + (16.*k)/(0.1 + k)**2))**0.2*
+--------------------------------------^
+charmed_meson_production.f90(1164): error #5276: Unbalanced parentheses
+         (16.01 + k*(0.2 + k)))!0.2 weight=0.2     5.5 weight=0.8
+------------------------------^
+charmed_meson_production.f90(1164): error #5082: Syntax error, found '(' when expecting one of: <LABEL> <END-OF-STATEMENT> ; <IDENTIFIER> TYPE MODULE ELEMENTAL IMPURE NON_RECURSIVE ...
+         (16.01 + k*(0.2 + k)))!0.2 weight=0.2     5.5 weight=0.8
+---------^
+charmed_meson_production.f90(1164): error #5082: Syntax error, found ')' when expecting one of: ( % [ . = =>
+         (16.01 + k*(0.2 + k)))!0.2 weight=0.2     5.5 weight=0.8
+------------------------------^
+compilation aborted for charmed_meson_production.f90 (code 1)
+charmed_meson_production.f90(1155): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+        fik =  (943.1810784729389*(0.1 + k)**2*
+-----------------------------------------------^
+charmed_meson_production.f90(1156): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+         ((1 + k**2/36.)/
+-------------------------^
+charmed_meson_production.f90(1157): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+            ((1 + 2.45960311115695/Exp(2*k))*
+---------------------------------------------^
+charmed_meson_production.f90(1158): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ) ,
+              (1 + 0.27027027027027023*k)**12
+---------------------------------------------^
+charmed_meson_production.f90(1159): error #5276: Unbalanced parentheses
+              ))**0.2*
+--------------^
+charmed_meson_production.f90(1159): error #5276: Unbalanced parentheses
+              ))**0.2*
+---------------^
+charmed_meson_production.f90(1159): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+              ))**0.2*
+----------------------^
+charmed_meson_production.f90(1160): error #5276: Unbalanced parentheses
+         (39.372261643524276 + k**5.5))/
+--------------------------------------^
+charmed_meson_production.f90(1160): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+         (39.372261643524276 + k**5.5))/
+----------------------------------------^
+charmed_meson_production.f90(1161): error #5082: Syntax error, found END-OF-STATEMENT when expecting one of: ( <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> <INTEGER_CONSTANT> ...
+       (k**6.5*((1 + 
+---------------------^
+charmed_meson_production.f90(1162): error #5276: Unbalanced parentheses
+              39.372261643524276/k**5.5)/
+---------------------------------------^
+charmed_meson_production.f90(1162): error #5082: Syntax error, found '.' when expecting one of: <IDENTIFIER> TYPE MODULE ELEMENTAL IMPURE NON_RECURSIVE PURE RECURSIVE FUNCTION ...
+              39.372261643524276/k**5.5)/
+----------------^
+charmed_meson_production.f90(1163): error #5276: Unbalanced parentheses
+            (k + (16.*k)/(0.1 + k)**2))**0.2*
+--------------------------------------^
+charmed_meson_production.f90(1163): error #5082: Syntax error, found '(' when expecting one of: <LABEL> <END-OF-STATEMENT> ; <IDENTIFIER> TYPE MODULE ELEMENTAL IMPURE NON_RECURSIVE ...
+            (k + (16.*k)/(0.1 + k)**2))**0.2*
+------------^
+charmed_meson_production.f90(1163): error #5082: Syntax error, found ')' when expecting one of: ( % [ . = =>
+            (k + (16.*k)/(0.1 + k)**2))**0.2*
+--------------------------------------^
+charmed_meson_production.f90(1164): error #5276: Unbalanced parentheses
+         (16.01 + k*(0.2 + k)))!0.2 weight=0.2     5.5 weight=0.8
+------------------------------^
+charmed_meson_production.f90(1164): error #5082: Syntax error, found '(' when expecting one of: <LABEL> <END-OF-STATEMENT> ; <IDENTIFIER> TYPE MODULE ELEMENTAL IMPURE NON_RECURSIVE ...
+         (16.01 + k*(0.2 + k)))!0.2 weight=0.2     5.5 weight=0.8
+---------^
+charmed_meson_production.f90(1164): error #5082: Syntax error, found ')' when expecting one of: ( % [ . = =>
+         (16.01 + k*(0.2 + k)))!0.2 weight=0.2     5.5 weight=0.8
+------------------------------^
+compilation aborted for charmed_meson_production.f90 (code 1)
+slurmd[cn13520]: *** JOB 6690325 CANCELLED AT 2022-11-07T09:53:27 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+exe.out            0000000000411284  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+exe.out            000000000048BFC8  Unknown               Unknown  Unknown
+exe.out            00000000004080D0  Unknown               Unknown  Unknown
+exe.out            000000000040B764  Unknown               Unknown  Unknown
+exe.out            000000000040DBF4  Unknown               Unknown  Unknown
+exe.out            000000000040ADAD  Unknown               Unknown  Unknown
+exe.out            000000000040522B  Unknown               Unknown  Unknown
+exe.out            0000000000404C02  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+exe.out            0000000000404AA9  Unknown               Unknown  Unknown

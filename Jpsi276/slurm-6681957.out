@@ -1,0 +1,5 @@
+begin time : Sun Oct 30 20:39:36 CST 2022
+current working directory: /PARA/blsc674/ghj/Jpsi276
+ifort: error #10236: File not found:  'charm_meson_production.f90'
+ifort: command line error: no files specified; for help type "ifort -help"
+end time : Sun Oct 30 21:45:10 CST 2022

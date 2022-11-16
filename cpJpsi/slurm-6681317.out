@@ -1,0 +1,14 @@
+begin time : Sun Oct 30 11:57:06 CST 2022
+current working directory: /PARA/blsc674/ghj/Jpsi276
+slurmd[cn13107]: *** JOB 6681317 CANCELLED AT 2022-10-30T12:39:10 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+exe.out            000000000040DF14  Unknown               Unknown  Unknown
+libpthread-2.12.s  0000003EE760F7E0  Unknown               Unknown  Unknown
+exe.out            0000000000488D9E  Unknown               Unknown  Unknown
+exe.out            0000000000407FEE  Unknown               Unknown  Unknown
+exe.out            000000000040679F  Unknown               Unknown  Unknown
+exe.out            00000000004050F1  Unknown               Unknown  Unknown
+exe.out            0000000000404942  Unknown               Unknown  Unknown
+libc-2.12.so       0000003EE721ED20  __libc_start_main     Unknown  Unknown
+exe.out            00000000004047E9  Unknown               Unknown  Unknown

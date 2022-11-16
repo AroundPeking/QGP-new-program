@@ -1,0 +1,11 @@
+begin time : Mon Nov 14 23:37:06 CST 2022
+current working directory: /PARA/blsc674/ghj/Jpsi502
+charmed_meson_production.f90(1162): error #6404: This name does not have a type, and must have an explicit type.   [P]
+        fik = Exp(20.49 - 3.15879* p**0.5)/(3.205558* 10**6)!FONLL fit
+-----------------------------------^
+compilation aborted for charmed_meson_production.f90 (code 1)
+charmed_meson_production.f90(1162): error #6404: This name does not have a type, and must have an explicit type.   [P]
+        fik = Exp(20.49 - 3.15879* p**0.5)/(3.205558* 10**6)!FONLL fit
+-----------------------------------^
+compilation aborted for charmed_meson_production.f90 (code 1)
+end time : Tue Nov 15 00:04:23 CST 2022
